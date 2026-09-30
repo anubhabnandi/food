@@ -1,2 +1,11 @@
-# Created by venv; see https://docs.python.org/3/library/venv.html
-*
+venv/
+__pycache__/
+*.pyc
+
+uploads/*
+database/*.db
+
+.env
+
+.vscode/
+.idea/
